@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://einahghish.thematchless.dev/sitemap.xml
